@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter">
   <img src="https://img.shields.io/badge/Dart-Language-blue?logo=dart">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql">
+  <img src="https://img.shields.io/badge/Supabase-Database-blue?logo=postgresql">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange">
 </p>
 
