@@ -1,6 +1,6 @@
 # 📱 SR Therapeutic
 
-> Sistema mobile para gestão de atendimentos de profissionais de acupuntura
+> **Sistema mobile para gestão de atendimentos de profissionais de acupuntura**
 
 ## 📖 Sobre o Projeto
 
@@ -47,7 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 * **Flutter** — Desenvolvimento do aplicativo mobile
 * **Dart** — Linguagem de programação
-* **PostgreSQL** — Banco de dados
+* **SupaBase** — Banco de dados
 * **Visual Studio Code** — Ambiente de desenvolvimento
 
 ---
