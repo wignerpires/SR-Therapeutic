@@ -50,7 +50,8 @@ O MVP do **SR Therapeutic** possui as seguintes funcionalidades:
 | 👤 **Pacientes** | Cadastro e gerenciamento dos pacientes |
 | 📋 **Histórico** | Consulta ao histórico dos atendimentos |
 | 📈 **Evolução** | Registro da evolução clínica dos pacientes |
-| 💰 **Financeiro** | Controle financeiro básico dos atendimentos |
+| 💰 **Financeiro** | Controle financeiro dos atendimentos |
+| 💰 **Contábil** | Controle da parte Contábil e Relatorios |
 
 ---
 
